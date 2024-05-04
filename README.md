@@ -8,9 +8,13 @@ Resmon is 0.00 idle and 0.01 when out of zone check is performed. (Player check 
 
 ### Installation
 Place phenom-playerzone-main in your resources
+
 Remove the (-main) from the folder name
+
 Set your center coords and radius in the playerzone.lua
+
 Ensure #phenom-playerzone in server.cfg
+
 Restart server (Remember....all player will get teleported to the center of the zone regardless of where they are)
 
 ### Dependencies
